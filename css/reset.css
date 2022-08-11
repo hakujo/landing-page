@@ -1,0 +1,11 @@
+*,html,:root
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: inherit;
+    font-family: inherit;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
